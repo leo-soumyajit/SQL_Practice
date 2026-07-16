@@ -1,4 +1,4 @@
----
+# SQL Practice Challenge
 
 ## Challenge 4: The "GoRide" Driver Bonus Campaign
 
